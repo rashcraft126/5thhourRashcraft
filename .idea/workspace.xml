@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="Added HW3">
-      <change afterPath="$PROJECT_DIR$/HW3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,10 +52,17 @@
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.Hello World.executor": "Run",
+    "Python.Playground.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/5th Hour/PycharmProjects/5th hour Rashcraft"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\5th Hour\PycharmProjects\5th hour Rashcraft" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="HW1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="5th hour Rashcraft" />
@@ -125,14 +132,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724264300685</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added HW3">
+      <option name="closed" value="true" />
+      <created>1724953108017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724953108017</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Added HW1" />
     <MESSAGE value="Added HW2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW2" />
+    <MESSAGE value="Added HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added HW3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
