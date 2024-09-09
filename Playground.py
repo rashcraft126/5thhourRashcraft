@@ -12,18 +12,13 @@ Name3=input()
 namelist=[Name1,Name2,Name3]
 print(namelist)
 print("Now lets do some math. Pick 5 numbers between 1-100")
-numb1=input()
-numb2=input()
-numb3=input()
-numb4=input()
-numb5=input()
+x=numb1=int(input())
+y=numb2=int(input())
+a=numb3=int(input())
+b=numb4=int(input())
+c=numb5=int(input())
 numblist= [numb1,numb2,numb3,numb4,numb5]
 print(numblist)
-x=numb1
-y=numb2
-a=numb3
-b=numb4
-c=numb5
 print("Theres your numbers. Now lets add", numb2, "and", numb5, ".")
 sum= y+c
 print(sum)
