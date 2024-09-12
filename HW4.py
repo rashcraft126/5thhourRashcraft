@@ -20,7 +20,13 @@ fifthhour ={
     "student2":{
         "Name":"Dominic",
         "Grade":12,
-        "phone":"iphone",
+        "phone":"iphone"
+    },
+    "student3":{
+        "Name":"Gabe",
+        "Grade":12,
+        "phone":"iphone"
+
     }
 }
-print(fifthhour["student1"]["Name"],fifthhour["student2"]["Name"])
+print(fifthhour["student1"]["Name"],fifthhour["student2"]["Name"],fifthhour["student3"]["Name"])
