@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="Scenario1 modified and completed" />
+    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW1 completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scenario1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,8 +52,10 @@
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
+    "Python.HW5.executor": "Run",
     "Python.Hello World.executor": "Run",
     "Python.Playground.executor": "Run",
+    "Python.Scenario 2.executor": "Run",
     "Python.Scenario1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -203,7 +208,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726596127821</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Scenario1 completed">
+      <option name="closed" value="true" />
+      <created>1726681720426</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1726681720426</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Scenario2 completed">
+      <option name="closed" value="true" />
+      <created>1727201059368</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727201059368</updated>
+    </task>
+    <task id="LOCAL-00015" summary="HW1 completed">
+      <option name="closed" value="true" />
+      <created>1727460034934</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727460034934</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -218,7 +247,10 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Scenario1 done" />
     <MESSAGE value="Scenario1 modified and completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Scenario1 modified and completed" />
+    <MESSAGE value="Scenario1 completed" />
+    <MESSAGE value="Scenario2 completed" />
+    <MESSAGE value="HW1 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW1 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

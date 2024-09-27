@@ -26,7 +26,7 @@ monsterdict= {
 
     },
     "Allisorus": {
-        "Health": 900,
+        "Health": 1000,
         "Damage": 75,
         "Element": "Poison, Water, Electric,Ice"
 
