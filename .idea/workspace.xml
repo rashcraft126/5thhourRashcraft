@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW1 completed">
+    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW6 completed">
+      <change afterPath="$PROJECT_DIR$/HW7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scenario1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Scenario1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
     <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -53,6 +54,8 @@
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
+    "Python.HW6.executor": "Run",
+    "Python.HW7.executor": "Run",
     "Python.Hello World.executor": "Run",
     "Python.Playground.executor": "Run",
     "Python.Scenario 2.executor": "Run",
@@ -232,7 +235,39 @@
       <option name="project" value="LOCAL" />
       <updated>1727460034934</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="HW5 completed">
+      <option name="closed" value="true" />
+      <created>1727460163655</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1727460163655</updated>
+    </task>
+    <task id="LOCAL-00017" summary="HW6 completed">
+      <option name="closed" value="true" />
+      <created>1727719831988</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727719831988</updated>
+    </task>
+    <task id="LOCAL-00018" summary="HW6 completed">
+      <option name="closed" value="true" />
+      <created>1727719844515</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727719844515</updated>
+    </task>
+    <task id="LOCAL-00019" summary="HW6 completed">
+      <option name="closed" value="true" />
+      <created>1727719911776</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727719911776</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,7 +285,9 @@
     <MESSAGE value="Scenario1 completed" />
     <MESSAGE value="Scenario2 completed" />
     <MESSAGE value="HW1 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW1 completed" />
+    <MESSAGE value="HW5 completed" />
+    <MESSAGE value="HW6 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW6 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
