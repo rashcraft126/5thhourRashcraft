@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW6 completed">
-      <change afterPath="$PROJECT_DIR$/HW7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW6 completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,25 +43,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.HW 1.executor": "Run",
-    "Python.HW1.executor": "Run",
-    "Python.HW2.executor": "Run",
-    "Python.HW3.executor": "Run",
-    "Python.HW4.executor": "Run",
-    "Python.HW5.executor": "Run",
-    "Python.HW6.executor": "Run",
-    "Python.HW7.executor": "Run",
-    "Python.Hello World.executor": "Run",
-    "Python.Playground.executor": "Run",
-    "Python.Scenario 2.executor": "Run",
-    "Python.Scenario1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/5th Hour/PycharmProjects/5th hour Rashcraft"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.HW 1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hello World.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Playground.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Scenario1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/5th Hour/PycharmProjects/5th hour Rashcraft&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\5th Hour\PycharmProjects\5th hour Rashcraft" />
@@ -287,7 +284,8 @@
     <MESSAGE value="HW1 completed" />
     <MESSAGE value="HW5 completed" />
     <MESSAGE value="HW6 completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW6 completed" />
+    <MESSAGE value="HW7 completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW7 completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
