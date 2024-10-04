@@ -28,4 +28,3 @@ if wifi == True:
         print("You are missing your login")
 else:
     print("You are missing your wifi connection")
-
