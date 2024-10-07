@@ -1,4 +1,4 @@
-#Name:
+#Name:Ryley Ashcraft
 #Class: 5th Hour
 #Assignment: HW6
 #Link=https://www.tutorialspoint.com/python/nested_if_statements_in_python.htm#:~:text=Example%20of%20Nested%20if%20Statement&text=num%20%3D%2036%20print%20(%22num,ends....%22)&text=num%20%3D%2036%20Divisible%20by%203%20and%202%20....
