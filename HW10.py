@@ -1,4 +1,4 @@
-#Name:
+#Name:Ryley Ashcraft
 #Class: 5th Hour
 #Assignment: HW10
 
@@ -23,7 +23,6 @@ while a <=30:
 #inputs the number 0.
 print("Try and guess the correct number")
 k = int(input())
-
 while k != 0:
     if k == 0:
         break
