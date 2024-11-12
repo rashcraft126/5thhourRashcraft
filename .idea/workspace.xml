@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW11 complete">
-      <change afterPath="$PROJECT_DIR$/HW12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/play.py" afterDir="false" />
+    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW12 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -355,11 +353,18 @@
       <option name="project" value="LOCAL" />
       <updated>1730311361389</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="HW12 complete">
+      <option name="closed" value="true" />
+      <created>1731005659957</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1731005659957</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Commit" />
     <MESSAGE value="Added HW1" />
     <MESSAGE value="Added HW2" />
     <MESSAGE value="Added HW3" />
@@ -384,7 +389,8 @@
     <MESSAGE value="HW9 complete" />
     <MESSAGE value="HW10 complete" />
     <MESSAGE value="HW11 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW11 complete" />
+    <MESSAGE value="HW12 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW12 complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
