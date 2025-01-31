@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW17">
-      <change afterPath="$PROJECT_DIR$/HW18.py" afterDir="false" />
+    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW18">
+      <change afterPath="$PROJECT_DIR$/HW19.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW 15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +60,7 @@
     "Python.HW16.executor": "Run",
     "Python.HW17.executor": "Run",
     "Python.HW18.executor": "Run",
+    "Python.HW19.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
@@ -428,11 +430,18 @@
       <option name="project" value="LOCAL" />
       <updated>1738091549830</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="HW18">
+      <option name="closed" value="true" />
+      <created>1738176831894</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1738176831894</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HW4 complete" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Scenario1 done" />
     <MESSAGE value="Scenario1 modified and completed" />
@@ -457,7 +466,8 @@
     <MESSAGE value="HW15" />
     <MESSAGE value="HW16" />
     <MESSAGE value="HW17" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW17" />
+    <MESSAGE value="HW18" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
