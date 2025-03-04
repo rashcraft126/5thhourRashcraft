@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="playground">
-      <change afterPath="$PROJECT_DIR$/AI Playground.py" afterDir="false" />
+    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment=" AI playground">
+      <change afterPath="$PROJECT_DIR$/HW21.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW 15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
     </list>
@@ -64,6 +64,7 @@
     "Python.HW19.executor": "Run",
     "Python.HW2.executor": "Run",
     "Python.HW20.executor": "Run",
+    "Python.HW21.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
@@ -490,11 +491,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740595231326</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary=" AI playground">
+      <option name="closed" value="true" />
+      <created>1740683989083</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1740683989083</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HW5 completed" />
     <MESSAGE value="HW6 completed" />
     <MESSAGE value="HW7 completed" />
     <MESSAGE value="HW7" />
@@ -519,7 +527,8 @@
     <MESSAGE value="Scenario6 &amp; 7" />
     <MESSAGE value="HW20" />
     <MESSAGE value="playground" />
-    <option name="LAST_COMMIT_MESSAGE" value="playground" />
+    <MESSAGE value=" AI playground" />
+    <option name="LAST_COMMIT_MESSAGE" value=" AI playground" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
