@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment=" AI playground">
-      <change afterPath="$PROJECT_DIR$/HW21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW21">
       <change beforePath="$PROJECT_DIR$/HW 15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,14 +104,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723830608551</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Initial Commit">
-      <option name="closed" value="true" />
-      <created>1723831477848</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1723831477848</updated>
     </task>
     <task id="LOCAL-00002" summary="Added HW1">
       <option name="closed" value="true" />
@@ -499,11 +489,18 @@
       <option name="project" value="LOCAL" />
       <updated>1740683989083</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="HW21">
+      <option name="closed" value="true" />
+      <created>1741113916569</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1741113916569</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HW6 completed" />
     <MESSAGE value="HW7 completed" />
     <MESSAGE value="HW7" />
     <MESSAGE value="HW6" />
@@ -528,7 +525,8 @@
     <MESSAGE value="HW20" />
     <MESSAGE value="playground" />
     <MESSAGE value=" AI playground" />
-    <option name="LAST_COMMIT_MESSAGE" value=" AI playground" />
+    <MESSAGE value="HW21" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
