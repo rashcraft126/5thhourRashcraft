@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW21">
+    <list default="true" id="27f76f7e-220f-4960-bb5a-73c4ea19a335" name="Changes" comment="HW24">
+      <change afterPath="$PROJECT_DIR$/HW24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HW 15.py" beforeDir="false" afterPath="$PROJECT_DIR$/HW15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +65,9 @@
     "Python.HW2.executor": "Run",
     "Python.HW20.executor": "Run",
     "Python.HW21.executor": "Run",
+    "Python.HW22.executor": "Run",
+    "Python.HW23.executor": "Run",
+    "Python.HW24.executor": "Run",
     "Python.HW3.executor": "Run",
     "Python.HW4.executor": "Run",
     "Python.HW5.executor": "Run",
@@ -104,38 +109,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723830608551</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Added HW1">
-      <option name="closed" value="true" />
-      <created>1724090958354</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1724090958355</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Added HW2">
-      <option name="closed" value="true" />
-      <created>1724264300685</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1724264300685</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Added HW3">
-      <option name="closed" value="true" />
-      <created>1724953108017</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1724953108017</updated>
-    </task>
-    <task id="LOCAL-00005" summary="playground">
-      <option name="closed" value="true" />
-      <created>1725646615258</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1725646615258</updated>
     </task>
     <task id="LOCAL-00006" summary="playground(eddited and fixed)">
       <option name="closed" value="true" />
@@ -497,14 +470,42 @@
       <option name="project" value="LOCAL" />
       <updated>1741113916569</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="HW22">
+      <option name="closed" value="true" />
+      <created>1741374178384</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1741374178384</updated>
+    </task>
+    <task id="LOCAL-00052" summary="HW23">
+      <option name="closed" value="true" />
+      <created>1741715440220</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1741715440220</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Scenario 8">
+      <option name="closed" value="true" />
+      <created>1741715463202</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1741715463202</updated>
+    </task>
+    <task id="LOCAL-00054" summary="HW24">
+      <option name="closed" value="true" />
+      <created>1742926401466</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1742926401466</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HW7 completed" />
-    <MESSAGE value="HW7" />
-    <MESSAGE value="HW6" />
-    <MESSAGE value="Scenario3" />
     <MESSAGE value="HW8 complete" />
     <MESSAGE value="HW9 complete" />
     <MESSAGE value="HW10 complete" />
@@ -526,7 +527,11 @@
     <MESSAGE value="playground" />
     <MESSAGE value=" AI playground" />
     <MESSAGE value="HW21" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW21" />
+    <MESSAGE value="HW22" />
+    <MESSAGE value="HW23" />
+    <MESSAGE value="Scenario 8" />
+    <MESSAGE value="HW24" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW24" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
